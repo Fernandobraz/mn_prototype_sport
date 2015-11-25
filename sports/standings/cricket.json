@@ -1,7 +1,7 @@
 {
-    "items": [
+    "tournament": [
         {
-            "desc": "Calendar"
+            "slug": "Cricket"
         }
         
     ]
