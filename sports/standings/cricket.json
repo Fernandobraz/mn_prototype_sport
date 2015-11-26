@@ -1,7 +1,7 @@
 {
-    "tournament": [
+    "items": [
         {
-            "slug": "Cricket"
+            "desc": "Cricket League Table"
         }
         
     ]
